@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FaaS on Project Flogo - Docs and Tutorials</title>
+    <link>https://tibcosoftware.github.io/flogo/faas/</link>
+    <description>Recent content in FaaS on Project Flogo - Docs and Tutorials</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Apr 2016 16:50:16 +0200</lastBuildDate>
+    
+	<atom:link href="https://tibcosoftware.github.io/flogo/faas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How-to for Flow as a Service</title>
+      <link>https://tibcosoftware.github.io/flogo/faas/how-to/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/faas/how-to/</guid>
+      <description>This page will guide you through the set of steps needed to make your flogo application run as &amp;lsquo;Flow as a Service&amp;rsquo;.
+AWS Lambda function Follow these steps to create an AWS Lambda function example
+Requirements  Install flogo cli details here Install docker here make command available  Create the application Create a flogo.json file with the following content
+{ &amp;quot;name&amp;quot;: &amp;quot;lambda&amp;quot;, &amp;quot;type&amp;quot;: &amp;quot;flogo:app&amp;quot;, &amp;quot;version&amp;quot;: &amp;quot;0.0.1&amp;quot;, &amp;quot;description&amp;quot;: &amp;quot;My flogo application description&amp;quot;, &amp;quot;triggers&amp;quot;: [ { &amp;quot;id&amp;quot;: &amp;quot;my_lambda_trigger&amp;quot;, &amp;quot;ref&amp;quot;: &amp;quot;github.</description>
+    </item>
+    
+  </channel>
+</rss>
